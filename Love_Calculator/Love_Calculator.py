@@ -5,7 +5,7 @@ st.title("Love Calculator")
 st.write("The Love Calculator is calculating your score...")
 
 name1 = st.text_input("What is your name?")
-name2 = st.text_input("What is their name?")
+name2 = st.text_input("What is their name?❤️")
 
 if name1 and name2:
     c_n = name1 + name2
